@@ -1,0 +1,26 @@
+# Presentation Settings
+
+sitename: Yuya Saito @ Studio Mohawk
+tagline: The base template for Jekyll
+desc: Mimimalistic one-colum Jekyll theme
+url: http://www.studiomohawk.com
+
+# TOOL Settings
+ga: 
+
+# System Settings
+
+pygments:    true
+markdown:    kramdown
+permalink:   pretty
+kramdown:
+  auto_ids: false
+  use_coderay: true
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers:
+    coderay_tab_width: 2
+    coderay_css: class
+
+exclude: [LICENSE, README.markdown, jakefile, .rbenv-version, tasks, node_modules, npm-debug.log, package.json, grunt.js, grunt-aws.json]
+include: [_includes]
