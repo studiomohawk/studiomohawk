@@ -1,9 +1,8 @@
 ## About:
 
-the-base is a initial setup for [Jekyll](https://github.com/mojombo/jekyll). 
-I just don't have a time to create Jekyll blogs from scratch every time.
-
-I will try to make this as minimum as possible.
+This is a working example of one page generation using Jekyll.  
+The site is about me. Even if you don't care about me, you could find a trick
+or two from the source.
 
 ## Dependencies:
 
@@ -24,7 +23,7 @@ If you get error doing it, you need to install [node.js](http://nodejs.org/)
 
 ## Question?
 
-You can ask questions [here](https://github.com/studiomohawk/the-base/issues/new).  
+You can ask questions [here](https://github.com/studiomohawk/studiomohawk/issues/new).  
 You could also ask anything on [Twitter@cssradar](http://twitter.com/cssradar)
 
 ## Licence:
